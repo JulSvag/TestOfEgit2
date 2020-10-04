@@ -19,6 +19,7 @@ public class TestOfEgit2 {
 		//update 2..
 		//hello.. I deleted previous line..
 		//added a line on github..
+		//added second line on github..
 
 	}
 
